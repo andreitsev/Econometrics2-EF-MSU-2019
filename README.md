@@ -15,4 +15,8 @@
 
 [Семинар 14-15 (Коинтеграция и Динамические панели)](https://nbviewer.jupyter.org/github/andreitsev/Econometrics2-EF-MSU-2019/blob/master/ECM-2%20Seminar%2014-15%20Cointegration%20and%20Dynamic%20Panels.ipynb)
 
+[Хороший образец ДЗ 1 (Мартьянова)](https://nbviewer.jupyter.org/github/andreitsev/Econometrics2-EF-MSU-2019/blob/master/Lisa_Martyanova_304.ipynb)
+
 [Хороший образец ДЗ 2 (Мартьянова)](https://nbviewer.jupyter.org/github/andreitsev/Econometrics2-EF-MSU-2019/blob/master/Example_dz2_Martyanova.ipynb)
+
+[Пример хорошего проекта (Мартьянова)](https://nbviewer.jupyter.org/github/andreitsev/Econometrics2-EF-MSU-2019/blob/master/Martyanova_304_project.ipynb)
